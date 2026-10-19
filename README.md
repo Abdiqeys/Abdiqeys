@@ -1,7 +1,7 @@
-# Abdiqeys-Mohamed
+# Abdiqeys Mohamed
 
 # 💫 About Me:
-🔭 I'm currently working on: a Netflix landing page clone (HTML, CSS, Tailwind)<br>👯 I'm looking to collaborate on: beginner-friendly frontend projects<br>🤝 I'm looking for help with: JavaScript (DOM manipulation) and responsive layouts<br>🌱 I I'm currently learning: JavaScript<br>💬 Ask me about: HTML, CSS, Tailwind<br>⚡ Fun fact about me is I code on my phone like a ninja 🥷📱 No laptop needed!
+🔭 I'm currently working on: a Netflix landing page clone (HTML, CSS, Tailwind)<br>👯 I'm looking to collaborate on: beginner-friendly frontend projects<br>🤝 I'm looking for help with: JavaScript (DOM manipulation) and responsive layouts<br>🌱 I'm currently learning: JavaScript<br>💬 Ask me about: HTML, CSS, Tailwind<br>⚡ Fun fact about me is I code on my phone like a ninja 🥷📱 No laptop needed!
 
 
 ## 🌐 Socials:
